@@ -1,0 +1,8 @@
+####################################
+# Problem: Trains                  #
+# Author: Peh Qin Cheng            #
+####################################
+How to use:
+1. To use your own text file for input, please rename text file to "input.txt" and replace the current input.txt
+2. To test new outputs, please replace parameters in main.rb. Methods have been labelled as according
+   to the example test case
